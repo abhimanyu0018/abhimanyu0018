@@ -10,7 +10,6 @@ a passionate MCA (Master of Computer Applications) student in my final year, on 
 * ✉️  You can contact me at [manu.ujn2014@gmail.com](mailto:manu.ujn2014@gmail.com)
 * 🧠  I'm learning MERN (MongoDB, Express.js, React , Node.js)
 * 🤝  I'm open to collaborating on other MERN Stack projects
-* ⚡  AAAA
 
 
 ### Socials
