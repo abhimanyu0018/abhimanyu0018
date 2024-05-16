@@ -7,7 +7,7 @@ Web Developer
 a passionate MCA (Master of Computer Applications) student in my final year, on a journey to master the art of web development.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [manu.ujn2014@gmail.com](mailto:iabhimanyu.kanaujia@gmail.com)
+* ✉️  You can contact me at [iabhimanyu.kanaujia@gmail.com](mailto:iabhimanyu.kanaujia@gmail.com)
 * 🧠  I'm learning MERN (MongoDB, Express.js, React , Node.js)
 * 🤝  I'm open to collaborating on other MERN Stack projects
 
